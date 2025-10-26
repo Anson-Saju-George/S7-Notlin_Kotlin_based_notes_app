@@ -12,7 +12,7 @@ This is a simple note app build using jetpack compose and material 3. This app u
 4. Unit Test
 5. Message Encryption to ensure privacy
 6. Add machine learning
-7. Tablet support 
+7. Tablet support
 8. Drawing  Notes
 
 ## How to Run
@@ -22,28 +22,23 @@ To run this project, simply clone this repository.
 git clone https://github.com/BillyMRX1/The-Notes.git
 ```
 
-Sync the gradle and build the project. 
-To run the app you need to use emulator or real devices. 
+Sync the gradle and build the project.
+To run the app you need to use emulator or real devices.
 Always checkout the main branch for the latest update.
 
 ## Screenshots
 
-Below are a few screenshots of the app. The images are stored in the repository at `./.images/`.
+Below are a few screenshots of the app. Click any thumbnail to open the full-size image.
 
-![Home screen](./.images/1.png)
-Home screen — list of notes.
+<div style="display:flex;flex-wrap:wrap;gap:12px;">
+	<a href=".images/1.png"><img src=".images/1.png" alt="Screenshot 1" style="width:240px;max-width:100%;height:auto;border:1px solid #ddd;border-radius:6px"/></a>
+	<a href=".images/2.png"><img src=".images/2.png" alt="Screenshot 2" style="width:240px;max-width:100%;height:auto;border:1px solid #ddd;border-radius:6px"/></a>
+	<a href=".images/3.png"><img src=".images/3.png" alt="Screenshot 3" style="width:240px;max-width:100%;height:auto;border:1px solid #ddd;border-radius:6px"/></a>
+	<a href=".images/4.png"><img src=".images/4.png" alt="Screenshot 4" style="width:240px;max-width:100%;height:auto;border:1px solid #ddd;border-radius:6px"/></a>
+	<a href=".images/5.png"><img src=".images/5.png" alt="Screenshot 5" style="width:240px;max-width:100%;height:auto;border:1px solid #ddd;border-radius:6px"/></a>
+</div>
 
-![Add note](./.images/2.png)
-Add note screen.
 
-![Note details](./.images/3.png)
-Note details and edit.
-
-![Delete note confirmation](./.images/4.png)
-Delete confirmation dialog.
-
-![Empty state / Lottie](./.images/5.png)
-Empty state with Lottie animation.
 
 ## Tech Stack
 - [Kotlin](https://kotlinlang.org/) - Modern programming language for Android development.
