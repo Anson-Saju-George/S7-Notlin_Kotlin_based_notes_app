@@ -26,6 +26,25 @@ Sync the gradle and build the project.
 To run the app you need to use emulator or real devices. 
 Always checkout the main branch for the latest update.
 
+## Screenshots
+
+Below are a few screenshots of the app. The images are stored in the repository at `./.images/`.
+
+![Home screen](./.images/1.png)
+Home screen — list of notes.
+
+![Add note](./.images/2.png)
+Add note screen.
+
+![Note details](./.images/3.png)
+Note details and edit.
+
+![Delete note confirmation](./.images/4.png)
+Delete confirmation dialog.
+
+![Empty state / Lottie](./.images/5.png)
+Empty state with Lottie animation.
+
 ## Tech Stack
 - [Kotlin](https://kotlinlang.org/) - Modern programming language for Android development.
 - [Jetpack Compose](https://developer.android.com/jetpack/compose) - Simplified UI toolkit for native Android apps.
